@@ -6,7 +6,7 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: >-
-      # Cant, beautiful plants right to your door
+      # Canti, beautiful plants right to your door
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
